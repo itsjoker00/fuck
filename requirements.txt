@@ -11,7 +11,7 @@ python-magic
 beautifulsoup4>=4.8.2,<4.8.10
 Pyrogram==0.18.0
 TgCrypto>=1.1.1,<1.1.10
-git+https://gitlab.com/magneto261290/youtube-dl
+youtube-dl
 lxml
 telegraph
 appdirs
