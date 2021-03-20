@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/anoxdleo/python-aria-mirror",
-  "website": "https://github.com/anoxdleo/python-aria-mirror/blob/master/README.md",
-  "success_url": "https://github.com/anoxdleo/python-aria-mirror",
+  "repository": "https://github.com/anoxdleo/magneto-python-aria",
+  "website": "https://github.com/anoxdleo/magneto-python-aria/blob/master/README.md",
+  "success_url": "https://github.com/anoxdleo/magneto-python-aria",
   "stack": "container"
   }
